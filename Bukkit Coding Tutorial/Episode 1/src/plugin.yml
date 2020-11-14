@@ -1,0 +1,9 @@
+name: TutorialPlugin
+version: 1.0
+author: CraftYun83
+main: com.craftyun83.tutorial.Main
+
+commands:
+  hello: 
+    aliases: [hi]
+    description: The hi command!!!
